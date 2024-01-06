@@ -1,2 +1,3 @@
-# project_uas_ds
-project telcom customer churn 
+# Project UAS Matkul Data Science
+
+Analysis and Prediction Telcom Customer Churn
